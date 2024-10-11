@@ -26,8 +26,8 @@
 - Building full-stack web applications
 
 ### 📫 How to Reach Me:
-- LinkedIn: [Your LinkedIn Profile](#)
-- Twitter: [Your Twitter Handle](#)
+- LinkedIn: [Kavish Mehta](www.linkedin.com/in/kavish-mehta-codewithkavish)
+- Twitter: @CodewithKavish
 
 ### 🚀 Let's collaborate on:
 - DSA projects and coding challenges
