@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Kavish 👋
 
 ### 🧑‍💻 About Me:
 - 🎓 I'm a Computer Science student currently in my 2nd year.
